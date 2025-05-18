@@ -1,0 +1,9 @@
+#Node modules
+node_modules/
+#logs
+*.log
+#dependency directories
+coverage/
+#Environment files(if any)
+.env    
+ .DS_store
