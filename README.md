@@ -2,7 +2,7 @@
 
 This project contains unit tests written using [Jest](https://jestjs.io/), as part of the **Testing Practice** section from [The Odin Project](https://www.theodinproject.com/).
 
-## hat’s Included
+## That’s Included
 - `capitalize()` – Capitalizes the first letter of a string
 - `reverseString()` – Reverses a given string
 - `calculator` – An object with basic math operations: add, subtract, multiply, divide
